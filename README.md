@@ -27,7 +27,7 @@ The task consists of
 Please create a public github repo for the task and share it with us.
 Answer the following questions right here in the README please.
 Please add a screenshot of your IDE as well ...
-
+<img width="1925" alt="Screenshot 2021-08-29 at 01 25 41" src="https://user-images.githubusercontent.com/39412964/131233436-3f410e90-edcb-4851-a58f-f086279c771f.png">
 So, in order to get to know each other: My favourite editor is neovim.
 I first switched to it because I kinda liked the terminal and those heavyweight GUIs
 wouldn't work well on my slow machine. 
