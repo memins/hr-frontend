@@ -12,4 +12,5 @@ There are also various plugins that I use again and again such as ESLint, GitLen
 The plugins are all for VS Code, and in Webstrom is everything already available. :)
 
 ### 3. add a screenie
-aa
+<img width="1687" alt="Screenshot 2021-08-29 at 01 24 28" src="https://user-images.githubusercontent.com/39412964/131233434-fcd6ee93-19b2-41ca-9339-a564c808d6bc.png">
+<img width="1925" alt="Screenshot 2021-08-29 at 01 25 41" src="https://user-images.githubusercontent.com/39412964/131233436-3f410e90-edcb-4851-a58f-f086279c771f.png">
