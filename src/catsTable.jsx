@@ -3,7 +3,7 @@ import { CenterVH } from "./catsTableStyle";
 import "./catsTable.css";
 
 export const CatsTable = () => {
-  console.log("hier");
+  console.log("here");
 
   const someArray = [1, 2, 3];
 
