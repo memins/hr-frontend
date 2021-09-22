@@ -64,6 +64,8 @@ I can now say: (n)vim rocks!!!
 Papa had 100 kittens. Their names were saved somewhere on the web - please find some resource that makes
 it relatively easy for you to fetch 100 kittens first names (let it be human first names) into a js-array (of strings).
 
+I created cat names here: https://www.name-generator.org.uk/cat/
+
 Now the petty task is for you to "grep awk cut sed regex-replace format" the list into a js-array of strings :-)
 Please save that into some .json file in your server/public folder.
 
